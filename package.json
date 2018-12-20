@@ -52,7 +52,7 @@
     "ethjs-unit": "^0.1.6",
     "hdkey": "^1.1.0",
     "imagemin-webpack-plugin": "^2.3.0",
-    "jspdf": "^1.4.1",
+    "jspdf": "1.4.1",
     "keccak": "^1.4.0",
     "node-fetch": "^2.2.0",
     "node-sass": "^4.9.0",
